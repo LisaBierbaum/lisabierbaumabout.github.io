@@ -1,0 +1,117 @@
+.header {
+display:block;
+text-align: center;
+font-family:helvetica;
+color: #000033;
+}
+
+.img{
+display: block;
+text-align: center;
+margin-left: 0px;
+margin-top: 0px;
+}
+
+.dog{
+display: block;
+margin-left: 350px;
+margin-top: 0px;
+}
+
+.speakbubble {
+display: block;
+margin-left: 560px;
+margin-top: -450px;
+
+}
+
+.menue {
+display: block;
+text-align: center;
+margin-top: 20px;
+font-family:helvetica;
+color: #000000;
+}
+
+.mailme {
+display: block;
+text-align: center;
+margin-top: -195px;
+margin-left: 255px;
+font-family:helvetica;
+color: #000000;
+}
+
+.list-item  {
+display:inline-block;
+text-align: center;
+margin-top: 5px;
+margin-right: 20px;
+color: #000000;
+}
+
+.text {
+display: block;
+text-align: center;
+margin-top: 40px;
+font-family: helvetica;
+color: #000033;
+}
+
+.photo{
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-left: 20px;
+}
+
+.photo2{
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-left: 70px;
+}
+
+.unterschrift {
+display: block;
+text-align: center;
+margin-top: 20px;
+font-family: helvetica;
+color: #000033;
+}
+
+.justify{
+display: block;
+text-align: center;
+margin-top: 40px;
+margin-left: 250px;
+margin-right: 250px;
+font-family:helvetica;
+color: #000000;
+}
+
+.tumblr {
+  display: block;
+  margin-top: -119px;
+  margin-left: 645px;
+}
+
+.facebook {
+  display: block;
+  margin-top: 220px;
+  margin-left: 600px;
+}
+
+#box { text-align: center }
+.box { box-sizing: border-box;
+      margin-top: 20px;
+       width: 350px; height: 500px;
+       display:inline-block; vertical-align: top;
+       font-family: helvetica;
+       font-weight: lighter;
+}
+.box:nth-child(1) { padding:10px; border:10px solid gainsboro;}
+.box:nth-child(2) { padding:20px; background: silver; color: white}
+.box:nth-child(3) { border:20px solid gray}
